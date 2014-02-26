@@ -1,0 +1,6 @@
+Copyright 2014, Daniel Washburn CC-BY (http://creativecommons.org/licenses/by/4.0/)
+
+This project is a simple microtonal (http://en.wikipedia.org/wiki/Microtonal_music) or 
+xenharmonic (http://en.wikipedia.org/wiki/Xenharmony) synthesizer written in Python. It 
+requires wxPython and pyo, a DSP module, and is controlled with a GUI and the use of a 
+computer keyboard.
